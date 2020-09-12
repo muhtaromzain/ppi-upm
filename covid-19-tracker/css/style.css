@@ -1,0 +1,53 @@
+.active-title {
+    background-color: #E7B1B6;
+    color: #8C2C34;
+}
+
+.active-body, .active-cases {
+    background-color: #F0D0D3; 
+    color: #8C2C34;
+}
+
+.recovered-title {
+    background-color: #B1E7B7;
+    color: #2C8C26;
+}
+
+.recovered-body, .recovered-cases {
+    background-color: #D0F0D4; 
+    color: #2C8C26;
+}
+
+.death-title {
+    background-color: #C9CCCF;
+    color: #4E5256;
+}
+
+.death-body, .death-cases {
+    background-color: #DFE1E2; 
+    color: #4E5256;
+}
+
+.footer {
+    background-color: #CE1126;
+    color: #FFF;
+}
+
+.ref {
+    margin-left: auto !important;
+}
+
+.navbar {
+    background-color: #fff !important;
+}
+
+td {
+    width: 33%;
+}
+
+@media (max-width: 767px) {
+    .hp {
+        padding-top: 0.5rem !important;
+    }
+}
+
